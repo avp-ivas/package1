@@ -1,0 +1,6 @@
+{
+    "name": "avp-ivas/package1",
+    "description": "avp-ivas/package1",
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
